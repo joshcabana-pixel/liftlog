@@ -1,0 +1,6 @@
+# Personal training data never goes in the (public) repo
+data/
+*.json.bak
+liftlog-backup-*.json
+node_modules/
+test/fixture-sheet.csv
